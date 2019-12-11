@@ -1,0 +1,14 @@
+{
+  "name": "authserver",
+  "version": "1.0.0",
+  "description": "Simple auth server for a demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
